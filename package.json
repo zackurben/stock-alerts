@@ -1,0 +1,19 @@
+{
+  "name": "stock-alerts",
+  "version": "0.0.1",
+  "description": "A simple way to get notified of drastic stock ticker changes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "stock",
+    "alerts"
+  ],
+  "author": "Zack Urben",
+  "license": "MIT",
+  "dependencies": {
+    "get-stock": "^1.0.3",
+    "push.js": "0.0.12"
+  }
+}
