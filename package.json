@@ -11,7 +11,8 @@
   },
   "keywords": [
     "stock",
-    "alerts"
+    "alerts",
+    "stockalerts"
   ],
   "author": "Zack Urben <zackurben@gmail.com> (http://zackurben.com)",
   "license": "MIT",
