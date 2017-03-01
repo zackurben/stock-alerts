@@ -13,7 +13,9 @@
   "author": "Zack Urben",
   "license": "MIT",
   "dependencies": {
-    "get-stock": "^1.0.3",
+    "cli": "^1.0.1",
+    "get-stock": "git+https://github.com/zackurben/get-stock.git",
+    "node-notifier": "^5.0.2",
     "push.js": "0.0.12"
   }
 }
