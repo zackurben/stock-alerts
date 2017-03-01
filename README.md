@@ -22,6 +22,7 @@ computer$ stockalerts tsla aapl msft
 
 ## Todo
 
-[ ] Add the ability to change time intervals
-[ ] Add persistence of symbols to track
-[ ] Add % tracking to notify only if a symbol has changed x% a day
+ - [ ] Add the ability to change time intervals
+ - [ ] Add persistence of symbols to track
+ - [ ] Add % tracking to notify only if a symbol has changed x% a day
+ - [ ] Add a better visual cue for positive and negative changes on the alert
