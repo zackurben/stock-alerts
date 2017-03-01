@@ -9,6 +9,10 @@
   "bin": {
     "stockalerts": "./bin/stockalerts"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zackurben/stock-alerts"
+  },
   "keywords": [
     "stock",
     "alerts",
